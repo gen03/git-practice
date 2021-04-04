@@ -1,1 +1,2 @@
 new file をmainブランチでさくせい
+pull時のrebase用
